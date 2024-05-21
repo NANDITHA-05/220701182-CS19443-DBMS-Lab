@@ -6,8 +6,8 @@
 	Nulls/Unique
 	FK Table
 	FK Column
-	Data type 	   Number 	VARCHAR2
-	Length 		      7 	      25
+	Data type        Number 	VARCHAR2
+	Length 		    7 	           25
 
 	CREATE TABLE dept
 	(id NUMBER(7),
@@ -24,8 +24,8 @@
 	Nulls/Unique
 	FK Table
 	FK Column
-	Data type   	 Number 	VARCHAR2  	VARCHAR2  	Number
-	Length 		        7 	     25 		   25		    7	
+	Data type   	 Number     VARCHAR2  	 VARCHAR2  	Number
+	Length 		    7 	       25 	    25		  7	
 
 	CREATE TABLE emp
 	(id NUMBER(7),
