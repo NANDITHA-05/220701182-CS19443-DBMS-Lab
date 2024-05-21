@@ -66,9 +66,9 @@
    COMMENT ON TABLE emp IS ’Employee Information’;
    COMMENT ON TABLE dept IS ’Department Information’;
 
-	   SELECT *
-	   FROM user_tab_comments
-	   WHERE table_name = ’DEPT’
+	 SELECT *
+	 FROM user_tab_comments
+	 WHERE table_name = ’DEPT’
   	 OR table_name = ’EMP’;
 
 8. Drop the FIRST_NAME column from the EMP table. Confirm your modification by checking the
